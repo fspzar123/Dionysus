@@ -29,13 +29,20 @@ You can check out the [create-t3-app GitHub repository](https://github.com/t3-os
 Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
 
 ## Images of the protoype
-
+### Front Page
 ![Screenshot 2025-05-01 134651](https://github.com/user-attachments/assets/20a34e0f-2ba4-4421-baf4-29354a55c369)
+### Github Integration
 ![Screenshot 2025-05-01 134539](https://github.com/user-attachments/assets/23778b81-d524-4b15-9367-c95896f35715)
+### Generated Vector Embeddings
 ![Screenshot 2025-05-01 134825](https://github.com/user-attachments/assets/c1fbeee7-87e1-487a-886b-f9effba1877c)
+### Commit Summary
 ![Screenshot 2025-05-01 135622](https://github.com/user-attachments/assets/852b36f9-b0c9-498c-b3ca-b418f55475fe)
+### Chatbot
 ![Screenshot 2025-05-01 143741](https://github.com/user-attachments/assets/331d5c85-8e4d-4503-afbc-c3b6abd9deee)
+### Chat Generated
 ![image](https://github.com/user-attachments/assets/2bee32d4-5249-4cbf-86a6-4ed13d530f0f)
 
+##
+*Please note that this repository is for storing my projects and files from [Elliott Chong's Youtube video](https://youtu.be/OqlI2766LCk?si=iODuUQZYg3PpJBjN). It was a part of my endeavour to learn the current trends in AI and Data Science. None of this is my intellectual property.*
 
 
